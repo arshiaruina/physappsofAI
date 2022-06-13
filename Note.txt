@@ -1,0 +1,7 @@
+# physappsofAI
+My work on the exercise notebooks from the Physics Applications of AI course (T. Golling, Spring Semester 2022, UniGe)
+
+
+- The ```project``` folder contains the ```DampeDataExploration.ipynb``` notebook where all the tests and trials were made that are presented in the project report.
+
+- The ```project``` folder also contain the final report named ```ProjectReport_ArshiaRuina.pdf````.
